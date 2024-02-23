@@ -76,4 +76,3 @@
 |   | 98  | [分形之城](https://www.acwing.com/problem/content/100/)           | 《算法竞赛进阶指南》               | 分治坐标变换递归           | 39.03%  | 困难     |
 |   | 99  | [激光炸弹](https://www.acwing.com/problem/content/101/)           | 《算法竞赛进阶指南》HNOI2003       | 二维前缀和              | 30.18%  | 简单     |
 |   | 100 | [增减序列](https://www.acwing.com/problem/content/102/)           | 《算法竞赛进阶指南》               | 差分                 | 46.70%  | 中等     |
-
